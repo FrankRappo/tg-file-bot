@@ -1,0 +1,12 @@
+config.json
+send_magazines.sh
+bot.log
+inbox.jsonl
+bot.pid
+files/
+outgoing/
+__pycache__/
+*.pyc
+.omx/
+*.bak*
+README.md
